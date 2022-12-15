@@ -13,7 +13,7 @@
 
 ### Notable Stats
 
-#### Top 3 Mentioned Songs
+#### Top 3 Songs
 
 | Position | Mentions | Song                              | Artist                                           |
 | -------- | -------- | --------------------------------- | ------------------------------------------------ |
@@ -22,7 +22,7 @@
 | 🥉        | 3        | Rockin' Around The Christmas Tree | Brenda Lee (3)                                   |
 | 🥉        | 3        | O Come, O Come, Emmanuel          | Enya (2), Sufjan Stevens (1)                     |
 
-#### Top 3 Mentioned Artists
+#### Top 3 Artists
 
 | Position | Mentions | Artist            |
 | -------- | -------- | ----------------- |
