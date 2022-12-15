@@ -109,3 +109,10 @@
 | 70    | Away in a Manger                            | Pentatonix                        | ZedSaid                | artist given                                                                                 |
 | 71    | Die Hard OST                                | ?                                 | samuel                 | artist guess                                                                                 |
 | 72    | Carol of the Bells                          | ?                                 | Onyx933                | artist guess                                                                                 |
+
+#### Streaming
+
+| Platform    | URL           |
+| ----------- | ------------- |
+| Apple Music | *coming soon* |
+| Spotify     | *coming soon* |
