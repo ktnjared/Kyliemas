@@ -86,18 +86,18 @@
 
 ### Top 3 Mentioned Songs
 
-| Mentions | Song                              | Artist                                           |
-| -------- | --------------------------------- | ------------------------------------------------ |
-| 8        | Last Christmas                    | Wham! (5), Taylor Swift (2), Backstreet Boys (1) |
-| 4        | You're a mean one, Mr. Grinch     | Thurl Ravenscroft (4)                            |
-| 3        | Rockin' Around The Christmas Tree | Brenda Lee (3)                                   |
-| 3        | O Come, O Come, Emmanuel          | Enya (2), Sufjan Stevens (1)                     |
+| Position | Mentions | Song                              | Artist                                           |
+| -------- | -------- | --------------------------------- | ------------------------------------------------ |
+| 🥇        | 8        | Last Christmas                    | Wham! (5), Taylor Swift (2), Backstreet Boys (1) |
+| 🥈        | 4        | You're a mean one, Mr. Grinch     | Thurl Ravenscroft (4)                            |
+| 🥉        | 3        | Rockin' Around The Christmas Tree | Brenda Lee (3)                                   |
+| 🥉        | 3        | O Come, O Come, Emmanuel          | Enya (2), Sufjan Stevens (1)                     |
 
 ### Top 3 Mentioned Artists
 
-| Mentions | Artist            |
-| -------- | ----------------- |
-| 5        | Wham!             |
-| 4        | Thurl Ravenscroft |
-| 3        | Bobby Helms       |
-| 3        | Brenda Lee        |
+| Position | Mentions | Artist            |
+| -------- | -------- | ----------------- |
+| 🥇        | 5        | Wham!             |
+| 🥈        | 4        | Thurl Ravenscroft |
+| 🥉        | 3        | Bobby Helms       |
+| 🥉        | 3        | Brenda Lee        |
