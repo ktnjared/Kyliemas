@@ -8,8 +8,8 @@
 > 
 > Answer this question to enter:  What is your favorite Holiday movie?
 
-- last entry  : 2022-12-15 09:09 UTC
-- last updated: 2022-12-15 21:54 UTC
+- last entry  : 2022-12-15 22:20 UTC
+- last updated: 2022-12-15 22:21 UTC
 
 ### Notable Stats
 
@@ -23,12 +23,13 @@
 | 🥉        | The Muppet Christmas Carol | 1992 | 3     |
 | 🥉        | The Santa Clause           | 1994 | 3     |
 | 🥉        | A Christmas Carol          | 1984 | 3     |
+| 🥉        | Jingle All the Way         | 1996 | 3     |
 
 #### Most Common Decade
 
 | Position | Decade | Count |
 | -------- | ------ | ----- |
-| 🥇        | 1990   | 24    |
+| 🥇        | 1990   | 25    |
 | 🥈        | 1980   | 15    |
 | 🥉        | 2000   | 9     |
 
@@ -94,3 +95,6 @@
 | 56    | d0ublefelix      | Jingle All the Way                                 | 1996      |
 | 57    | Jared            | A Charlie Brown Christmas                          | 1965      |
 | 58    | Jared            | Love Actually                                      | 2003      |
+| 59    | Terrell5Star     | Jingle All the Way                                 | 1996      |
+| 60    | Terrell5Star     | Spirited                                           | 2022      |
+| 70    | ColdAsIce        | Home Alone 2                                       | 1992      |
