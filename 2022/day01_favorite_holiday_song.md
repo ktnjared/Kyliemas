@@ -1,6 +1,6 @@
-# Fairy Family Christmas Playlist
+# Kyliemas
 
-## Day 01
+## 01: Favorite Holiday Song (aka The Fairy Family Christmas Playlist)
 
 > HAPPY HOLIDAYS!!! 🎄☃️kylieHug
 >
