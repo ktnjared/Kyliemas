@@ -1,9 +1,37 @@
-# Fairy Family Christmas
+# Fairy Family Christmas Playlist
+
+## Day 01
+
+> HAPPY HOLIDAYS!!! 🎄☃️kylieHug
+>
+> On the 1st day of Kyliemas, Misskyliee gave to me....
+>
+> Answer this question to enter: What is your favorite Christmas/Holiday song?
 
 - last entry  : 2022-12-14 22:22 EST
 - last updated: 2022-12-14 23:41 EST
 
-## The Playlist
+### Notable Stats
+
+#### Top 3 Mentioned Songs
+
+| Position | Mentions | Song                              | Artist                                           |
+| -------- | -------- | --------------------------------- | ------------------------------------------------ |
+| 🥇        | 8        | Last Christmas                    | Wham! (5), Taylor Swift (2), Backstreet Boys (1) |
+| 🥈        | 4        | You're a mean one, Mr. Grinch     | Thurl Ravenscroft (4)                            |
+| 🥉        | 3        | Rockin' Around The Christmas Tree | Brenda Lee (3)                                   |
+| 🥉        | 3        | O Come, O Come, Emmanuel          | Enya (2), Sufjan Stevens (1)                     |
+
+#### Top 3 Mentioned Artists
+
+| Position | Mentions | Artist            |
+| -------- | -------- | ----------------- |
+| 🥇        | 5        | Wham!             |
+| 🥈        | 4        | Thurl Ravenscroft |
+| 🥉        | 3        | Bobby Helms       |
+| 🥉        | 3        | Brenda Lee        |
+
+### The Playlist
 
 53 unique songs
 
@@ -81,23 +109,3 @@
 | 70    | Away in a Manger                            | Pentatonix                        | ZedSaid                | artist given                                                                                 |
 | 71    | Die Hard OST                                | ?                                 | samuel                 | artist guess                                                                                 |
 | 72    | Carol of the Bells                          | ?                                 | Onyx933                | artist guess                                                                                 |
-
-## Notable Stats
-
-### Top 3 Mentioned Songs
-
-| Position | Mentions | Song                              | Artist                                           |
-| -------- | -------- | --------------------------------- | ------------------------------------------------ |
-| 🥇        | 8        | Last Christmas                    | Wham! (5), Taylor Swift (2), Backstreet Boys (1) |
-| 🥈        | 4        | You're a mean one, Mr. Grinch     | Thurl Ravenscroft (4)                            |
-| 🥉        | 3        | Rockin' Around The Christmas Tree | Brenda Lee (3)                                   |
-| 🥉        | 3        | O Come, O Come, Emmanuel          | Enya (2), Sufjan Stevens (1)                     |
-
-### Top 3 Mentioned Artists
-
-| Position | Mentions | Artist            |
-| -------- | -------- | ----------------- |
-| 🥇        | 5        | Wham!             |
-| 🥈        | 4        | Thurl Ravenscroft |
-| 🥉        | 3        | Bobby Helms       |
-| 🥉        | 3        | Brenda Lee        |
