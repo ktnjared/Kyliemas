@@ -8,8 +8,8 @@
 >
 > Answer this question to enter: What is your favorite Christmas/Holiday song?
 
-- last entry  : 2022-12-14 22:22 EST
-- last updated: 2022-12-14 23:41 EST
+- last entry  : 2022-12-15 09:09 UTC
+- last updated: 2022-12-15 09:17 UTC
 
 ### Notable Stats
 
@@ -33,7 +33,7 @@
 
 ### The Playlist
 
-53 unique songs
+55 unique songs
 
 | Order | Song Title                                  | Artist                            | Fairy                  | Notes                                                                                        |
 | ----- | ------------------------------------------- | --------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------- |
@@ -109,6 +109,8 @@
 | 70    | Away in a Manger                            | Pentatonix                        | ZedSaid                | artist given                                                                                 |
 | 71    | Die Hard OST                                | ?                                 | samuel                 | artist guess                                                                                 |
 | 72    | Carol of the Bells                          | ?                                 | Onyx933                | artist guess                                                                                 |
+| 73    | Christmas in LA                             | vulfpeck                          | IToddYouSo             | artist given                                                                                 |
+| 74    | The Power of Love                           | Frankie Goes to Hollywood         | bob_neil               | artist given                                                                                 |
 
 #### Streaming
 
