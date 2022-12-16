@@ -1,6 +1,4 @@
-# Kyliemas
-
-## 02: Favorite Holiday Movie
+# Kyliemas Day 02: Favorite Holiday Movie
 
 > HAPPY HOLIDAYS!!! 🎄 ☃️ kylieHug 
 > 
@@ -8,12 +6,14 @@
 > 
 > Answer this question to enter:  What is your favorite Holiday movie?
 
-- last entry  : 2022-12-16 01:39 UTC
-- last updated: 2022-12-16 01:50 UTC
+|Last| Time (UTC)|
+|—-|—-|
+|entry| 2022-12-16 01:39|
+|update| 2022-12-16 01:50|
 
-### Notable Stats
+## Notable Stats
 
-#### Top 3 Movies
+### Top 3 Movies
 
 | Position | Movie                      | Year | Count |
 | -------- | -------------------------- | ---- | ----- |
@@ -25,7 +25,7 @@
 | 🥉        | A Christmas Carol          | 1984 | 3     |
 | 🥉        | Jingle All the Way         | 1996 | 3     |
 
-#### Most Common Decade
+### Most Common Decade
 
 | Position | Decade | Count |
 | -------- | ------ | ----- |
@@ -33,7 +33,7 @@
 | 🥈        | 1980   | 15    |
 | 🥉        | 2000   | 9     |
 
-### The Playlist
+## The Playlist
 
 | Order | Fairy            | Movie                                              | Year      |
 | ----- | ---------------- | -------------------------------------------------- | --------- |
