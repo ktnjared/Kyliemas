@@ -7,7 +7,7 @@
 > Answer this question to enter:  What is your favorite Holiday movie?
 
 |Last| Time (UTC)|
-|—-|—-|
+| -------- | -------------------------- | 
 |entry| 2022-12-16 01:39|
 |update| 2022-12-16 01:50|
 
