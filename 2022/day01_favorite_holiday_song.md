@@ -42,7 +42,7 @@
 | Platform    | URL                                                                                                                                                                                                            |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Apple Music | [https://music.apple.com/us/playlist/kyliemas-2022-fairy-family-christmas-playlist/pl.u-GgA5Y75H8DajdE](https://music.apple.com/us/playlist/kyliemas-2022-fairy-family-christmas-playlist/pl.u-GgA5Y75H8DajdE) |
-| Spotify     | *coming soon*                                                                                                                                                                                                  |
+| Spotify     | [https://open.spotify.com/playlist/2p8axKF350PCr06OcN1faj](https://open.spotify.com/playlist/2p8axKF350PCr06OcN1faj)                                                                                           |
 
 ## The Playlist
 
