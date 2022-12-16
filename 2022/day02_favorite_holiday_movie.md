@@ -10,24 +10,24 @@
 
 |             | Time (UTC)       |
 | ----------- | ---------------- |
-| last entry  | 2022-12-16 04:09 |
-| last update | 2022-12-16 04:31 |
+| last entry  | 2022-12-16 13:12 |
+| last update | 2022-12-16 13:15 |
 
 ## Notable Stats
 
 ### Top 3 Movies
 
-| Position | Movie                      | Year | Count |
-| -------- | -------------------------- | ---- | ----- |
-| 🥇        | Home Alone                 | 1990 | 14    |
-| 🥈        | Die Hard                   | 1988 | 9     |
-| 🥉        | Home Alone 2               | 1992 | 4     |
+| Position | Movie        | Year | Count |
+| -------- | ------------ | ---- | ----- |
+| 🥇        | Home Alone   | 1990 | 15    |
+| 🥈        | Die Hard     | 1988 | 9     |
+| 🥉        | Home Alone 2 | 1992 | 4     |
 
 ### Most Common Decade
 
 | Position | Decade | Count |
 | -------- | ------ | ----- |
-| 🥇        | 1990   | 31    |
+| 🥇        | 1990   | 32    |
 | 🥈        | 1980   | 18    |
 | 🥉        | 2000   | 9     |
 
@@ -106,3 +106,4 @@
 | 78    | samuel           | A Christmas Carol                                  | 1951      |
 | 79    | Showoff_Reigns67 | Home Alone                                         | 1990      |
 | 80    | Showoff_Reigns67 | Die Hard                                           | 1989      |
+| 81    | 1upCAD           | Home Alone                                         | 1990      |
