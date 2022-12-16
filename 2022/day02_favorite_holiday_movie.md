@@ -8,8 +8,8 @@
 > 
 > Answer this question to enter:  What is your favorite Holiday movie?
 
-- last entry  : 2022-12-15 22:20 UTC
-- last updated: 2022-12-15 22:21 UTC
+- last entry  : 2022-12-16 01:39 UTC
+- last updated: 2022-12-16 01:50 UTC
 
 ### Notable Stats
 
@@ -98,3 +98,10 @@
 | 59    | Terrell5Star     | Jingle All the Way                                 | 1996      |
 | 60    | Terrell5Star     | Spirited                                           | 2022      |
 | 70    | ColdAsIce        | Home Alone 2                                       | 1992      |
+| 71|HomeSkillet|Noelle||
+|72|abitrary54|Terminator||
+|73|Devvie|Die Hard|1989|
+|74|Digital Portal|Home Alone|1990|
+|75|LesleyPro_04|Home Alone 2|1992|
+|76|elfeprince|Klaus||
+|77|Hayzer18|Home Alone|1990|
