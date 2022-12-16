@@ -38,11 +38,14 @@
 ## Streaming
 
 <!-- 
+Playlist Name:
+🧚‍♀️🎄Kyliemas 2022 - Fairy Family Christmas Playlist
+
 Playlist Description: 
-On the first day of Kyliemas 2022, Misskyliee's (twitch.tv/misskyliee) 
-Christmas celebration for her community, the Fairy Family, asked "What is 
-your favorite Christmas/Holiday song?". The community responded, and produced 
-an incredible selection of music. This is a playlist of that music. 
+On the first day of Kyliemas 2022 - a Christmas/Holiday celebration for her
+community, the Fairy Family - Misskyliee (twitch.tv/misskyliee) asked "What 
+is your favorite Christmas/Holiday song?". The community responses produced 
+an incredible selection of music. This is a playlist of that music.
 -->
 
 | Platform    | URL                                                                                                                                                                                                            |
