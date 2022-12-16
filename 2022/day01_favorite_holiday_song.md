@@ -1,6 +1,8 @@
-# Kyliemas
+# Kyliemas, Day 01: Favorite Holiday Song 
 
-## 01: Favorite Holiday Song (aka The Fairy Family Christmas Playlist)
+**aka The Fairy Family Christmas Playlist**
+
+## Kylie's Message
 
 > HAPPY HOLIDAYS!!! 🎄☃️kylieHug
 >
@@ -8,12 +10,14 @@
 >
 > Answer this question to enter: What is your favorite Christmas/Holiday song?
 
-- last entry  : 2022-12-15 09:09 UTC
-- last updated: 2022-12-15 09:17 UTC
+|             | Time (UTC)       |
+| ----------- | ---------------- |
+| last entry  | 2022-12-15 09:09 |
+| last update | 2022-12-16 04:13 |
 
-### Notable Stats
+## Notable Stats
 
-#### Top 3 Songs
+### Top 3 Songs
 
 | Position | Mentions | Song                              | Artist                                           |
 | -------- | -------- | --------------------------------- | ------------------------------------------------ |
@@ -22,7 +26,7 @@
 | 🥉        | 3        | Rockin' Around The Christmas Tree | Brenda Lee (3)                                   |
 | 🥉        | 3        | O Come, O Come, Emmanuel          | Enya (2), Sufjan Stevens (1)                     |
 
-#### Top 3 Artists
+### Top 3 Artists
 
 | Position | Mentions | Artist            |
 | -------- | -------- | ----------------- |
@@ -31,7 +35,14 @@
 | 🥉        | 3        | Bobby Helms       |
 | 🥉        | 3        | Brenda Lee        |
 
-### The Playlist
+## Streaming
+
+| Platform    | URL           |
+| ----------- | ------------- |
+| Apple Music | *coming soon* |
+| Spotify     | *coming soon* |
+
+## The Playlist
 
 55 unique songs
 
@@ -111,10 +122,3 @@
 | 72    | Carol of the Bells                          | ?                                 | Onyx933                | artist guess                                                                                 |
 | 73    | Christmas in LA                             | vulfpeck                          | IToddYouSo             | artist given                                                                                 |
 | 74    | The Power of Love                           | Frankie Goes to Hollywood         | bob_neil               | artist given                                                                                 |
-
-#### Streaming
-
-| Platform    | URL           |
-| ----------- | ------------- |
-| Apple Music | *coming soon* |
-| Spotify     | *coming soon* |
