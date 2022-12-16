@@ -37,7 +37,13 @@
 
 ## Streaming
 
-<!-- On the first day of Kyliemas 2022, Misskyliee's (twitch.tv/misskyliee) Christmas celebration for her community, the Fairy Family, asked "What is your favorite Christmas/Holiday song?". The community responded, and produced an incredible selection of music (github.com/ktnjared/Kyliemas/blob/main/2022/day01_favorite_holiday_song.md). This is a playlist of that music. -->
+<!-- 
+Playlist Description: 
+On the first day of Kyliemas 2022, Misskyliee's (twitch.tv/misskyliee) 
+Christmas celebration for her community, the Fairy Family, asked "What is 
+your favorite Christmas/Holiday song?". The community responded, and produced 
+an incredible selection of music. This is a playlist of that music. 
+-->
 
 | Platform    | URL                                                                                                                                                                                                            |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
