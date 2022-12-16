@@ -1,15 +1,17 @@
-# Kyliemas Day 02: Favorite Holiday Movie
+# Kyliemas, Day 02: Favorite Holiday Movie
 
-> HAPPY HOLIDAYS!!! 🎄 ☃️ kylieHug 
-> 
-> On the 2nd day of Kyliemas, Misskyliee gave to me.... 
-> 
+## Kylie's Message
+
+> HAPPY HOLIDAYS!!! 🎄 ☃️ kylieHug
+>
+> On the 2nd day of Kyliemas, Misskyliee gave to me....
+>
 > Answer this question to enter:  What is your favorite Holiday movie?
 
-|Last| Time (UTC)|
-| -------- | -------------------------- | 
-|entry| 2022-12-16 01:39|
-|update| 2022-12-16 01:50|
+|             | Time (UTC)       |
+| ----------- | ---------------- |
+| last entry  | 2022-12-16 04:09 |
+| last update | 2022-12-16 04:31 |
 
 ## Notable Stats
 
@@ -17,20 +19,16 @@
 
 | Position | Movie                      | Year | Count |
 | -------- | -------------------------- | ---- | ----- |
-| 🥇        | Home Alone                 | 1990 | 11    |
-| 🥈        | Die Hard                   | 1989 | 7     |
-| 🥉        | It's a Wonderful Life      | 1946 | 3     |
-| 🥉        | The Muppet Christmas Carol | 1992 | 3     |
-| 🥉        | The Santa Clause           | 1994 | 3     |
-| 🥉        | A Christmas Carol          | 1984 | 3     |
-| 🥉        | Jingle All the Way         | 1996 | 3     |
+| 🥇        | Home Alone                 | 1990 | 14    |
+| 🥈        | Die Hard                   | 1988 | 9     |
+| 🥉        | Home Alone 2               | 1992 | 4     |
 
 ### Most Common Decade
 
 | Position | Decade | Count |
 | -------- | ------ | ----- |
-| 🥇        | 1990   | 25    |
-| 🥈        | 1980   | 15    |
+| 🥇        | 1990   | 31    |
+| 🥈        | 1980   | 18    |
 | 🥉        | 2000   | 9     |
 
 ## The Playlist
@@ -98,10 +96,13 @@
 | 59    | Terrell5Star     | Jingle All the Way                                 | 1996      |
 | 60    | Terrell5Star     | Spirited                                           | 2022      |
 | 70    | ColdAsIce        | Home Alone 2                                       | 1992      |
-| 71|HomeSkillet|Noelle||
-|72|abitrary54|Terminator||
-|73|Devvie|Die Hard|1989|
-|74|Digital Portal|Home Alone|1990|
-|75|LesleyPro_04|Home Alone 2|1992|
-|76|elfeprince|Klaus||
-|77|Hayzer18|Home Alone|1990|
+| 71    | HomeSkillet      | Noelle                                             | 2019      |
+| 72    | abitrary54       | Terminator                                         | 1984      |
+| 73    | Devvie           | Die Hard                                           | 1989      |
+| 74    | Digital Portal   | Home Alone                                         | 1990      |
+| 75    | LesleyPro_04     | Home Alone 2                                       | 1992      |
+| 76    | elfeprince       | Klaus                                              | 2019      |
+| 77    | Hayzer18         | Home Alone                                         | 1990      |
+| 78    | samuel           | A Christmas Carol                                  | 1951      |
+| 79    | Showoff_Reigns67 | Home Alone                                         | 1990      |
+| 80    | Showoff_Reigns67 | Die Hard                                           | 1989      |
